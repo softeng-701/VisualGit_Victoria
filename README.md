@@ -19,7 +19,7 @@ The repository can be cloned using either HTTPS or SSH, but SSH will be needed f
 
 #### SSH
 ````
-git clone git@github.com:kblincoe/VisualGit_SE701_2019_3.git
+git clone git@github.com:softeng-701/VisualGit_Victoria.git
 ````
 
 #### HTTPS
